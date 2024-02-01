@@ -12,3 +12,8 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <title>Page Title</title>
 <button>Выберите пункт доставки</button>
+<<<<<<< HEAD
+=======
+<div>Блок с фильтром товаров<div>
+
+>>>>>>> catalog-filter

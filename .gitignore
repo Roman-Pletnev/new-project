@@ -1,3 +1,7 @@
 .DS_Store
 .idea/
+<<<<<<< HEAD
 errors.log
+=======
+errors.log 
+>>>>>>> catalog-filter
